@@ -5,15 +5,15 @@ Avaliação T1 - Projeto usando Microcontroladores do Instituto Mauá de Tecnolo
 ## EEN251
 **Professores Responsáveis: Sergio Ribeiro Augusto e	Rodrigo de Marca Franca**
 
-| Alunos  | RA |
-| ------------- | ------------- |
-| André Lucas Gois Soares | 21.01922-3  |
-| Bruno Bosa Lopes | 20.00041-3 |
-| Bruno Grika Mauricio | 21.00772-0 |
-| Caio Montes Correia | 21.00931-7 |
-| Enzo de Brito Suannes Pucci | 21.02093-0 |
-| Gabriel Marchese Caselli | 20.01408-2 |
-| Pedro Guerra Judice Mesquita | 21.02028-0 |
+| Alunos  | RA | Número do Grupo |
+| ------------- | ------------- | ------------- |
+| André Lucas Gois Soares | 21.01922-3  | 12 |
+| Bruno Bosa Lopes | 20.00041-3 | 12 |
+| Bruno Grika Mauricio | 21.00772-0 | 6 |
+| Caio Montes Correia | 21.00931-7 | 12 |
+| Enzo de Brito Suannes Pucci | 21.02093-0 | 12 |
+| Gabriel Marchese Caselli | 20.01408-2 | 6 |
+| Pedro Guerra Judice Mesquita | 21.02028-0 | 6 |
 
 ![WhatsApp Image 2024-06-04 at 20 04 19_2297c6b0](https://github.com/dhezinho11/ProjetoT1usandoMicrocontroladores/assets/63157536/66c0413d-66bb-4ba2-b908-c72caae65c95)
 
@@ -61,11 +61,14 @@ Segunda parte  do Cofre, contador de moedas:
 https://github.com/dhezinho11/ProjetoT1usandoMicrocontroladores/assets/97291864/ae443844-9d11-4d8e-99f7-b2e46e5e31d2
 
 # Imagens sobre o Projeto
-![Parte de dentro da Porta](https://github.com/dhezinho11/ProjetoT1usandoMicrocontroladores/assets/97291864/1722fe2b-09ff-4960-b86b-6201bab38460)
-![Parte de dentro da Cofre](https://github.com/dhezinho11/ProjetoT1usandoMicrocontroladores/assets/97291864/a333f130-f1ca-4cce-801a-cb3d60a2daf0)
-![Frente do Cofre](https://github.com/dhezinho11/ProjetoT1usandoMicrocontroladores/assets/97291864/5af9e285-1acb-4f4a-8576-f8aed242fdb7)
-![Frente do Cofre 2](https://github.com/dhezinho11/ProjetoT1usandoMicrocontroladores/assets/97291864/321de819-966e-4c32-bbdb-49ed52abb739)
-![Cima do Cofre](https://github.com/dhezinho11/ProjetoT1usandoMicrocontroladores/assets/97291864/c51d9ac9-4ed8-4f20-9994-afbf7075d304)
+![1](https://github.com/dhezinho11/ProjetoT1usandoMicrocontroladores/assets/97291864/319acd3c-c176-4d22-b607-bc2746b4663e)
+![2](https://github.com/dhezinho11/ProjetoT1usandoMicrocontroladores/assets/97291864/669aef0b-8aeb-4cf8-bb89-7adecfca2f6f)
+![3](https://github.com/dhezinho11/ProjetoT1usandoMicrocontroladores/assets/97291864/cb38df9c-7212-477e-8e7b-e447755fa6fd)
+![4](https://github.com/dhezinho11/ProjetoT1usandoMicrocontroladores/assets/97291864/83e57c7e-8f0a-466e-bcd7-95f2d0f20af0)
+![6](https://github.com/dhezinho11/ProjetoT1usandoMicrocontroladores/assets/97291864/e1065267-738e-4700-b636-3f45493ed64e)
+![7](https://github.com/dhezinho11/ProjetoT1usandoMicrocontroladores/assets/97291864/c133494e-1025-415b-a215-60a5d9b0c308)
+
+
 
 
 
