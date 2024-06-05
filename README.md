@@ -15,6 +15,9 @@ Avaliação T1 - Projeto usando Microcontroladores do Instituto Mauá de Tecnolo
 | Gabriel Marchese Caselli | 20.01408-2 |
 | Pedro Guerra Judice Mesquita | 21.02028-0 |
 
+![WhatsApp Image 2024-06-04 at 20 04 19_2297c6b0](https://github.com/dhezinho11/ProjetoT1usandoMicrocontroladores/assets/63157536/66c0413d-66bb-4ba2-b908-c72caae65c95)
+
+
 # Conceito/Descrição do Projeto
 O projeto desenvolvido pela nossa equipe consiste em duas partes: um cofre com dupla autenticação feita pelo teclado e pelo sensor RFID e um contador de moedas feito com sensores que se localizarão dentro do cofre.  
 O cofre receberá as moedas através de um orifício, onde serão identificadas pelos sensores, que contabilizarão e informarão ao usuário o valor que existe dentro do cofre. Além disso, haverá um display responsável por informar se o usuário teve êxito ao tentar abri-lo. Por fim, ao abrir o cofre, haverá uma comunicação entre os dois sistemas que apagará o valor contabilizado.  
@@ -35,6 +38,7 @@ A maior parte do sistema será localizada dentro de uma caixa na parte de trás 
 
 # Análise Básica de Custo
 Foi feito pelo grupo o levantamento do custo de algumas peças utilizadas para a construção do sistema, não foram considerados os materiais utilizadas para a caixa e nem os equipamentos para a construção.
+![WhatsApp Image 2024-06-04 at 20 05 51_29f4b989](https://github.com/dhezinho11/ProjetoT1usandoMicrocontroladores/assets/63157536/491993a8-dfb3-4d7c-8b74-8c5290f5e1b3)
 
 
 #  Diagrama de Blocos do Sistema
