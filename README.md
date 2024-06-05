@@ -50,7 +50,11 @@ Foi feito pelo grupo o levantamento do custo de algumas peças utilizadas para a
 # Vídeos sobre o Projeto
 Primeira parte do Cofre, dupla autenticação:
 
-https://github.com/dhezinho11/ProjetoT1usandoMicrocontroladores/assets/97291864/cd2c4e1b-c211-4f8f-9824-4b967636f6b
+
+
+https://github.com/dhezinho11/ProjetoT1usandoMicrocontroladores/assets/97291864/76a61369-3d78-4926-b9a6-5db9b3e95708
+
+
 
 Segunda parte  do Cofre, contador de moedas:
 
